@@ -1,0 +1,9 @@
+﻿a histopathological image of an area with adipose,
+a histopathological image of an area with mucus,
+a histopathological image of an area with cancer-associated stroma,
+a histopathological image of an area with smooth muscle,
+a histopathological image of an area with colorectal adenocarcinoma epithelium,
+a histopathological image of an area with lymphocytes,
+a histopathological image of an area with debris,
+a histopathological image of an area with background,
+a histopathological image of an area with normal colon mucosa
