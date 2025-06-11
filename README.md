@@ -1,13 +1,13 @@
 # Aiding Medical Diagnosis through Image Synthesis and Classification
 
-> A self-validating framework for generating and classifying synthetic medical images using Stable Diffusion and ResNet.  
+> A self-validating system for generating and classifying synthetic medical images using Stable Diffusion and ResNet.  
 > 📄 [Read the full paper on arXiv](https://arxiv.org/abs/2506.00786)
 
 ---
 
 ## 📌 Overview
 
-This project presents a practical, modular framework to streamline medical image classification workflows using synthetic data. By fine-tuning Stable Diffusion (v1.5) on class-specific data and validating outputs with a ResNet-18 classifier, this pipeline allows clinicians and researchers to simulate disease-specific image samples and verify their utility.
+This project presents a practical, modular system to streamline medical image classification workflows using synthetic data. By fine-tuning Stable Diffusion (v1.5) on class-specific data and validating outputs with a ResNet-18 classifier, this pipeline allows clinicians and researchers to simulate disease-specific image samples and verify their utility.
 
 Rather than addressing data scarcity, this work enhances **training efficiency**, **evaluation control**, and **accessibility** for medical professionals who may lack large, curated datasets or advanced ML knowledge.
 
@@ -68,7 +68,7 @@ Aiding_Medical_Diagnosis/
 ## 🧪 Example Outputs
 
 ### 🔧 System Overview  
-High-level diagram of the complete framework.
+High-level diagram of the complete system.
 
 ![System Overview](assets/system_design.png)
 
