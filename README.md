@@ -95,6 +95,12 @@ ResNet confusion matrix (trained on real data, tested on real data).
 
 ## ⚙️ Setup Instructions
 
+> **Note**: All notebooks in this repository were originally developed and tested in **Google Colab**. They are optimized for that environment and rely on Colab-specific paths and features.  
+> To run the code locally (e.g., using Conda or Jupyter), you may need to:
+> - Update file paths (e.g., remove references to `/content/drive/...`)
+> - Replace any Google Drive mounting code
+> - Adjust directory structure or file I/O accordingly
+
 ### 1. Clone the Repository
 
 ```bash
@@ -115,12 +121,6 @@ conda activate Aiding_Medical_Diagnosis
 > ```
 
 ---
-
-> **Note**: All notebooks in this repository were originally developed and tested in **Google Colab**. They are optimized for that environment and rely on Colab-specific paths and features.  
-> To run the code locally (e.g., using Conda or Jupyter), you may need to:
-> - Update file paths (e.g., remove references to `/content/drive/...`)
-> - Replace any Google Drive mounting code
-> - Adjust directory structure or file I/O accordingly
 
 ## 📓 How to Use
 
